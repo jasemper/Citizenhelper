@@ -1,0 +1,311 @@
+Vehicles - Seats and Operator Modes
+u+LShift : emergency exit seat
+RAlt+y : eject seat in an emergency
+m : switch to mining mode
+m : switch to salvaging mode
+v : switch to scanning mode
+b : switch to quantum travel mode
+Mouse3 : switch between missle and gun modes
+Mouse3 : 
+
+Vehicles - Cockpit
+Backspace : engage self destruct sequence in vehicle
+hold Backspace : stop self destruct sequence in vehicle
+RAlt+r : make all systems of vehicle ready (systems ready/flight ready)
+RAlt+k : toggle the port locks (change weapons loadout in hardware)
+
+Vehicles - View
+X-Axis : look left, look right
+Y-Axis : look up, look down
+F4 : cycle camera modes
+Wheel Up : zoom in in third person (3rd)
+Wheel Down : zoom out in third person (3rd)
+hold z : freelook, to look aroud freely as long as you hold
+z : toggle freelook, to look aroud freely
+
+Flight - Movement
+Y-Axis : pitch, turn nose up, turn nose down
+X-Axis : yaw, turn nose right, turn nose left
+q : roll left
+e : roll right
+Space : move upwards
+LCtrl : move downwards
+a : apply thrust to move to the left
+d : apply thrust to move to the right
+w : apply forward thrust
+s : apply backward thrust
+c : toggle coupled and decoupled mode (ship will try to stand still vs. ship is moving according to newtons first law)
+LShift : activate boost
+Wheel Up : increase speed limiter
+Wheel Down : decrease speed limiter
+RAlt+Wheel Up : higher the acceleration limit
+RAlt+Wheel Down : lower the accelersation limit
+x : spacebrake, to come to a complete halt/stop
+RShift : toggle being able to move the ships nose (loss of controll)
+LAlt+c : toggle cruise controll. move with the speed from the speed limiter
+n : toggle landing gear
+k : toggle vtol
+LAlt+k : toggle configuration. change wing formation (wings)
+hold n : autoland
+LAlt+n : request landing, request takeoff from hangars
+b : cycle master modes (not ingame yet)
+
+Flight - Quantum Travel
+hold b : start quantum travelling
+
+Flight - Docking
+n : toggle docking mode (it's just like landing, but you have to align youself properly)
+
+Flight - Target Hailing
+9 : hail target to communicate with target
+
+Flight - Radar
+hold and release v : scan the area with a ping
+
+Vehicles - Scanning
+hold Mouse1 : start scanning
+Wheel Up : decrease scannign angle
+Wheel Down : increase scanning angle
+
+Vehicles - Mining
+Mouse1 : fire mining laser
+Mouse2 : change tool,change laser
+LAlt+Wheel Up : increase power of laser
+LAlt+Wheel Down : decrease power of laser
+LAlt+1 : activate mining consumable (slot 1)
+LAlt+2 : activate mining consumable (slot 2)
+LAlt+3 : activate mining consumable (slot 3)
+LAlt+J : remove all cargo from vehicle (jettison cargo)
+
+Vehicles - Salvaging
+LAlt+Wheel Up : increase disctance between beams
+LAlt+Wheel Down : decrease disctance between beams
+Mouse1 : toggle focused operator
+RAlt+a : toggle left beam
+RAlt+d : toggle right beam
+RAlt+w : toggle fracture
+RAlt+s : toggle disintegrate
+g : toggle salvage gimbals
+LAlt+g : reset salvage gimbals
+LAlt+Mouse2 : switch salvage beam axis
+Mouse2 : cycle focused salvage modifiers
+LAlt+s : focus all salvage heads
+LAlt+a : focus left salvage head
+LAlt+d : focus right salvage head
+LAlt+w : focus fracture tool
+
+Vehicles - Weapons
+Mouse1 : fire group 0
+Mouse2 : fire group 1
+LAlt+g : manual gimbal (i don't understand the difference)
+RAlt+g : manual gimbal (i don't understand the difference)
+g : cycle gimbal modes
+long g : set manual gimbal mode (i don't understand)
+
+Vehicles - Missles
+Mouse1 : launch missles, shoot missle
+Mouse2 : cycle missle types
+g : increase number of missles
+LAlt+g : reset number of missles
+hold t : toggle desired impact point of bomb
+
+Vehicles - Shields And Countermeasures
+h : decoy
+RAlt+h : increase decoy size
+LAlt+h : decrease decoy size
+j : noise (to loose being targeted)
+num 8 : shields front
+num 2 : shields back
+num 4 : shields left
+num 6 : shields right
+num 7 : shields top
+num 1 : shields bottom
+num 5 : reset shields
+
+Vehicles - Power Triangle Assignment
+F5 : increase weapons power
+hold F5 : set weapons power to maximum
+F6 : increase engine power
+hold F6 : set engine power to maximum
+F7 : increase shield power
+hold F7 : set shield power to maximum
+F8 : reset power
+
+Vehicles - Power
+u : toggle all power, start ship
+i : toggle engines
+o : toggle shields
+p : toggle weapons
+F9 : decrease throttle
+double F9 : decrease throttle to minimum
+F10 : increase throttle
+double F10 : increase throttle to maximum
+
+Flight - HUD
+F1 : toggle mobiglas
+Tab : open/close scoreboard
+F2 : open map
+LAlt+x : wipe helmet visor
+
+Lights
+L : toggle headlights
+
+Ground Vehicle - General
+Space : honk the horn
+F4 : cycle camera view
+Mouse Wheel Up : zoom in (3rd person view)
+Mouse Wheel Down : zoom out (3rd person view)
+X-Axis (mouse) : look left and right
+Y-Axis (mouse) : look up and down
+hold z : free view to look around
+mouse1 : fire weapon group 0
+mouse2 : fire weapon group 1
+F1 : toggle mobiglass
+RAlt+r : systems ready to start vehicle
+RAlt+k : toggle the port locks (change weapons loadout in hardware)
+F2 : open starmap
+LAlt+x : wipe helmet visor
+
+Ground Vehicle - Movement
+w : drive forwards
+s : drive backwards
+a : turn left
+d : turn right
+x : brake
+LShift : boost
+RShift : Lock Pitch Yaw Movement (Toggle/Hold)
+v : 
+
+Vehicles - Targeting
+1 : target pinned target 1
+2 : target pinned target 2
+3 : target pinned target 3
+LAlt+1 : set as pinned target 1
+LAlt+2 : set as pinned target 2
+LAlt+3 : set as pinned target 3
+0 : remove all pinned targets
+LAlt+t : untarget active target
+LAlt+l : 
+
+Vehicles - Target Cycling
+t : target ship in view
+t : target ship under reticle
+4 : target switch between attackers forward
+LAlt+4 : target switch between attackers backwards
+5 : target switch between hostiles forward
+LAlt+5 : target switch between hostiles backwards
+6 : target switch between friendlies forward
+LAlt+6 : target switch between friendlies backwards
+7 : target switch between all forward
+LAlt+7 : target switch between all backwards
+8 : target switch between subtargets forward
+LAlt+8 : target switch between subtargets backwards
+
+On Foot - All
+a : walk left
+d : walk right
+w : walk forward
+s : walk backwards
+space : jump
+LCtrl : crouch or duck
+x : prone
+LShift : sprinting
+q : lean left
+e : lean right
+space : grab a ledge to climb
+mouse1 : shoot gun
+mouse1 : melee attack left
+mouse2 : melee attack right
+hold mouse1 : heavy melee attack left
+hold mouse2 : heavy  melee attack right
+hold mouse1&mouse2 : block melee attack
+mouse2 : inject others with medicine
+double a : dodge left
+double d : dodge right
+double s : dodge backwards
+Mouse Wheel Down : zoom out (ads)
+Mouse Wheel Up : zoom in (ads)
+1 : draw sidearm
+2 : draw primary weapon
+3 : draw secondary weapon
+4 : draw gadget
+5 : get up fists
+0 : unarmed combat
+r : reload
+LAlt+x : reload sceondary
+LAlt+r : ammo repool
+hold r : holster weapon
+j : customize weapon
+LShift : hold breath (ads)
+u : underbarrel attachement action
+b : change firemode
+Page Down : decrease weapon zeroing
+Page Up : increase weapon zeroing
+Mouse Wheel Up : increase movement speed
+Mouse Wheel Down : decrease movement speed
+m : request rescue
+t : toggle flashlight
+LAlt+x : wipe helmet visor
+F4 : cycle camera view
+hold z : free view to look around
+F1 : toggle mobiglass
+tab : scoreboard
+mouse1 : shoot weapon
+mouse2 : port modification interact
+F2 : open starmap
+backspace : force respawn
+double q : roll left (while prone)
+double e : roll right (while prone)
+Mouse Wheel Up : increase tractor beam distance
+Mouse Wheel Down : decrease tractor beam distance
+backspace : regenerate at regeneration point (while incapacitated)
+
+E.V.A. - All
+X-axis (mouse) : view left and right
+Y-axis (mouse) : view up and down
+q : roll left
+e : roll right
+space : strafe up
+LCtrl : strafe down
+a : strafe left
+d : strafe right
+w : strafe forward
+s : strafe backwards
+x : brake
+LShift : boost
+hold z : free view to look around
+
+Turret - Movement
+Y-axis (mouse) : pitch
+X-axis (mouse) : yaw
+q : switch between vjoy and fps style
+y : exit turret (also remote turret)
+z : toggle zoom
+g : turret stabilization
+
+Turret - Advanced
+e : toggle esp on and off
+hold c : recenter turret
+a : toggle speed limiter
+mousewheel : turret speed limiter
+b : cycle fire mode
+LShift : turret zoom
+s : change position
+
+voip, foip and head tracking
+num/ : enable headtracking
+num+ : push to talk (ptt) 
+LAlt+num+ : push to talk (ptt) (proximity chat)
+num- : selfie cam
+num* : foip recalibrate
+num. : cycle audio channels
+
+Interactions
+
+SOCIAL
+
+
+CAMERA
+
+
+AVIAL KEYS

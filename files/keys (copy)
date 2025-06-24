@@ -1,0 +1,287 @@
+FLIGHTS -
+
+Vehicles - Seats and Operator Modes
+Emergency Exit Seat
+Eject
+Look Behind
+Mining Mode (Toggle)
+Salvage Mode (Toggle)
+Scanning Mode (Toggle)
+Quantum Travel System (Toggle)
+Missle Operator Mode (Toggle)
+@ui_v_operator_mode_toggle_next
+@ui_v_operator_mode_toggle_prev
+
+Vehicles - Cockpit
+Self Destruct
+Increase Cooler Rate
+Decrease Cooler Rate
+Flight / Systems Ready
+Open/Close Doors (Toggle)
+Open All Doors
+Close All Doors
+Lock / Unlock Doors (Toggle)
+Lock All Doors
+Unlock All Doors
+Port Lock Toggle All
+Port Lock All
+Port Unlock All
+
+Vehicles - View
+Look Left
+Look Right
+Look Left/Right
+Look Up
+Look Down
+Look Up/Down
+Cycle camera view
+Cycle Camera Orbit Mode
+Zoom In (3rd Person View)
+Zoom Out (3rd Person View)
+Freelook (Hold)
+Dynamic Zoom In / Out (rel)
+Dynamic Zoom In (rel)
+Dynamic Zoom Out (rel)
+Dynamic Zoom In / Out (abs)
+Dynamic Zoom Toggle (abs)
+
+Flight - Movement
+Pitch Up
+Pitch Down
+Pitch
+Yaw Left
+Yaw Right
+Yaw
+Roll Left
+Roll Right
+Roll
+Cycle Mouse Mode (VJoy / Relative)
+Swap Yaw/Roll (Toggle)
+Strafe Up (abs)
+Strafe Down (abs)
+Strafe Up / Down (abs)
+Strafe Left (abs)
+Strafe Right (abs)
+Strafe Left/Right (abs)
+Starfe Forward Back Invert
+Throttle Forward (abs & rel)
+Throttle Backward (abs & rel)
+Throttle Forward / Backward (abs & rel)
+Throttle Swap Relative and Absolute
+Throttle Forward (abs.)
+Throttle Backward (abs.)
+Throttle Forward / Backward (absl)
+Throttle Forward (rel.)
+Throttle Backward (rel.)
+Throttle Forward / Backward (rel)
+Throttle Set Trim (long)
+Throttle Set Trim (short)
+Throttle RemoveTrim (long)
+Throttle RemoveTrim (short)
+Decouple Mode (Toggle / Hold)
+Boost
+Speed Limiter Increase
+Speed Limiter Decrease
+Speed Limiter (Rel.)
+Speed Limiter (Abs.)
+Speed Limiter On/Off (Hold/Toggle)
+Speed Limiter Reset To SCM
+Acceleration Limiter Increase
+Acceleration Limiter Decrease
+Acceleration Limiter Up/Down (Rel.)
+Acceleration Limiter Up/Down (Abs.)
+Match Target Velocity
+Spacebrake
+Lock Pitch/  Yaw Movement (Toggle / Hold)
+G-force safety On / Off (Toggle / Hold)
+E.S.P Toggle On / Off (Press)
+@ui_v_ifcs_esp_hold
+Cruise Control (Toggle)
+Landing System (Toggle)
+Landing System (Deploy)
+Landing System (Retract)
+Toggle VTOL
+Expand Configuration
+Retract Configuration
+Cycle Configuration
+Autoland
+Request Landing
+@ui_CIATCLoadingRequest
+Cycle Master Mode
+Jump Drive - Request Jump
+Jump Drive - Engage Jump
+
+Flight - Quantum Travel
+Engage Quantum Drive (Hold)
+
+Flight - Docking
+Toggle Docking Mode
+Invoke Docking
+Toggle Docking Camera
+
+Flight - Target Hailing
+Hail Target
+
+Flight - Radar
+Activate Ping (Hold & Release)
+
+Vehicles - Scanning
+Activate Scanning
+Scanning Increase Radar Angle
+Scanning Decrease Radar Angle
+
+Vehicles - Mining
+Fire Mining Laser (Toggle)
+Switch Mining Laser (Toggle)
+Increase Mining Laser Power
+Decrease Mining Laser Power
+Increase /Decrease Mining Laser Power
+Activate Mining Consumable (Slot 1)
+Activate Mining Consumable (Slot 2)
+Activate Mining Consumable (Slot 3)
+Jettison Cargo
+
+Vehicles - Salvage
+Tractor Beam Vehicle- Increase Distance
+Tractor Beam Vehicle- Decrease Distance
+Toggle Fire Focused
+Toggle Fire Left
+Toggle Fire Right
+Toggle Fire Fracture
+Toggle Fire Disintegrate
+Salvage Mode Gimbal (Toggle)
+@ui_CISalvageGimbalReset
+Increase Beam Spacing
+Decrease Beam Spacing
+Relative Beam Spacing
+Absolute Beam Spacing
+Salvage Beam Axis (Toggle)
+Cycle Focused Salvage Modifiers
+Cycle Left Salvage Modifiers
+Cycle Right Salvage Modifiers
+Cycle Structural Salvage Modes
+Focus All Salvage Heads
+Focus Left Salvage Head
+Focus Right Salvage Head
+Focus Fracture Tool
+Focus Disintegration Tool
+Nudge Left Salvage Tool Up
+Nudge Left Salvage Tool Down
+Nudge Left Salvage Tool Left
+Nudge Left Salvage Tool Right
+Nudge Right Salvage Tool Up
+Nudge Right Salvage Tool Down
+Nudge Right Salvage Tool Left
+Nudge Right Salvage Tool Right
+
+Vehicles - Weapons
+Fire Weapon All
+Fire Weapon Group 1
+Fire Weapon group 2
+Manual Gimbal Mode Swap VJoy/Look Direction (Toggle/Hold)
+Manual Gimbal Mode Lock Aim Vector
+Cycle Gimbal Assist / Standard Gimbal / Gimbal Lock modes
+Cycle Fixed / Auto Gimbal Modes
+Set Fixed Gimbal Mode (Long Press)
+Set Auto Gimbal Mode (Long Press)
+Set Manual Gimbal Mode (Long Press)
+Set Fixed Gimbal Mode (Short Press)
+Set Auto Gimbal Mode (Short Press)
+Set Manual Gimbal Mode (Short Press)
+Supress Aim Assists (Hold)
+Cycle Fire Mode (Staggered / Combined)
+Toggle Lead / Lag PIPs
+Set Lag PIPs
+Set Lead PIPs
+PIP Combination Type (Toggle)
+PIP Combination Type Set One PIP Per Weapon
+PIP Combination Type Set One PIP Per Weapon Type
+PIP Combination Type Set Average For All
+Manual Convergence Distance (rel)
+Manual Convergence Distance Increase
+Manual Convergence Distance Decrease
+Manual Convergence Distance (abs)
+Manual Convergence Distance Reset
+
+Vehicles - Missles
+Launch Missles (Tap)
+Launch Missles (Hold)
+Cycle Next Missle Type
+Cycle Previous Missle Type
+Increase Number Of Armed Missles
+Decrease Number Of Armed Missles
+Reset Number Of Armed Missles
+Bombs Toggle Desired Impact Point (Tap)
+Bombs Toggle Desired Impact Point (Hold)
+Bombs Increase HUD Range
+Bombs Decrease HUD Range
+Bombs Reset HUD Range
+Enable Cinematic Camera (Toggle)
+Enable Cinematic Camera (Hold)
+
+Vehicles - Shields And Countermeasures
+Decoy Launch Burst (Tap) Set And Launch Burst (Hold)
+Decoy Increase Burst Size (Tap)
+Decoy Decrease Burst Size (Tap)
+Decoy Panic Launch (Tap)
+Noise Deploy (Tap)
+Shield Raise Level Front
+Shield Raise Level Back
+Shield Raise Level Left
+Shield Raise Level Right
+Shield Raise Level Top
+Shield Raise Level Bottom
+Shield Reset Levels
+
+Vehicles - Power Triangle Assingment
+Weapons Increase (Tap)
+Weapons Decrease (Tap)
+Weapons Set To Max (Tap)
+Weapons Set To Min (Tap)
+Weapons Increase (Tap) / Set To Max (Hold)
+Weapons Decrease (Tap) / Set To Min (Hold)
+Engines Increase (Tap)
+Engines Decrease (Tap)
+Engines Set To Max (Tap)
+Engines Set To Min (Tap)
+Engines Increase (Tap) / Set To Max (Hold)
+Engines Decrease (Tap) / Set To Min (Hold)
+Shields Increase (Tap)
+Shields Decrease (Tap)
+Shields Set To Max (Tap)
+Shields Set To Min (Tap)
+Shields Increase (Tap) / Set To Max (Hold)
+Shields Decrease (Tap) / Set To Min (Hold)
+Reset Assingments
+
+Flight - Power
+Toggle Power All
+Set Power On
+Set Power Off
+Toggle Power Thrusters
+Set Thrusters Power On
+Set Thrusters Power Off
+Toggle Power Shields
+Set Shields Power On
+Set Shields Power Off
+Toggle Power Weapons
+Set Weapons Power On
+Set Weapons Power Off
+Decrease Throttle
+Decrease Throttle To Min
+Increase Throttle
+Increase Throttle To Max
+
+Flight - HUD
+Cycle Pitch Ladder Mode
+MobiGlass (Toggle)
+Scoreboard
+Map
+Wipe Helmet Visor
+
+Lights -
+Headlights (Toggle)
+
+Stop Watch -
+Reset (Long Press)
+Start / Pause (Short Press)
